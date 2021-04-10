@@ -1,0 +1,11 @@
+{
+	"map": "bezerk3",
+	"rules": {
+		"get_chips": true
+	},
+	"entry":"random",
+	"exit":"random",
+	"drones": 10,
+	"droneLeader": 5,
+	"bouncebots": 4
+}

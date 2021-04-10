@@ -1,0 +1,14 @@
+{
+	"map": "crossroads2",
+	"rules": {
+		"clear_room": true
+	},
+	"entry": [25, 14],
+	"exit" : "random",
+	"drones": 10,
+	"droneLeader": 3,
+	"speedbots": 3,
+	"sprinter":3,
+	"seekerbots": 1
+
+}

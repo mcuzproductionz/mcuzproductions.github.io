@@ -1,0 +1,10 @@
+{
+	"map": "bezerk1",
+	"rules": {
+		"get_to_exit": true,
+		"shot": true
+	},
+	"entry":[1, 13],
+	"exit":[47, 13],
+	"drones": 30
+}

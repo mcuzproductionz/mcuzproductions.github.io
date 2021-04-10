@@ -1,0 +1,9 @@
+{
+	"map": "gauntlet1",
+	"rules": {
+		"get_to_exit": true
+	},
+	"entry": [47, 27],
+	"exit" : [4, 27],
+	"drones": 1
+}

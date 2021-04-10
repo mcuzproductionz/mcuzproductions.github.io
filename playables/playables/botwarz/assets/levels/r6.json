@@ -1,0 +1,11 @@
+{
+	"map": "crossroads1",
+	"rules": {
+		"get_chips": true
+	},
+	"entry": [47, 27],
+	"exit" : [19, 11],
+	"drones": 15,
+	"droneLeader": 3,
+	"tanks": 3
+}

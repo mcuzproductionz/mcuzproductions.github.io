@@ -1,0 +1,12 @@
+{
+	"map": "test",
+	"rules": {
+		"get_to_exit": true,
+		"shot": true
+	},
+	"entry":[1, 13],
+	"exit":[47, 13],
+	"tanks": 5,
+	"drones": 7,
+	"suicidebots": 3
+}

@@ -1,0 +1,10 @@
+{
+	"map": "bezerk2",
+	"rules": {
+		"clear_room": true
+	},
+	"entry":[14, 16],
+	"exit":[44, 25],
+	"drones": 26,
+	"bouncebots": 2
+}

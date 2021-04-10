@@ -1,0 +1,11 @@
+{
+	"map": "bezerk6",
+	"rules": {
+		"get_chips": true,
+		"shot": true
+	},
+	"entry": "random",
+	"exit" : "random",
+	"tanks": 10,
+	"shotDrones": 10
+}

@@ -1,0 +1,12 @@
+{
+	"map": "gauntlet3",
+	"rules": {
+		"clear_room": true
+	},
+	"entry": [2,14],
+	"exit" : [47,14],
+	"drones": 20,
+	"bouncebots" : 8,
+	"shotDrones": 8,
+	"droneleader": 4
+}

@@ -1,0 +1,13 @@
+{
+	"map": "bezerk5",
+	"rules": {
+		"get_to_exit": true
+	},
+	"entry": [20, 1],
+	"exit" : [47, 25],
+	"drones": 10,
+	"droneLeader": 5,
+	"bouncebots": 2,
+	"seekerbots": 2,
+	"sprinter": 5
+}

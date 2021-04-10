@@ -1,0 +1,12 @@
+{
+	"map": "bezerk7",
+	"rules": {
+		"get_chips": true
+	},
+	"entry": [47,1],
+	"exit" : [28,27],
+	"drones": 5,
+	"bouncebots" : 3,
+	"shotDrones": 5,
+	"suicidebots": 3
+}

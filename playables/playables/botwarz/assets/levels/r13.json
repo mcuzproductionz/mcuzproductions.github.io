@@ -1,0 +1,13 @@
+{
+	"map": "robotron1",
+	"rules": {
+		"get_chips": true,
+		"shot": true
+	},
+	"entry": "random",
+	"exit" : "random",
+	"tanks": 5,
+	"shotDrones": 15,
+	"drones": 20,
+	"bouncebots": 10
+}

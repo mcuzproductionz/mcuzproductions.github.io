@@ -1,0 +1,12 @@
+{
+	"map": "robotron3",
+	"rules": {
+		"clear_room": true
+	},
+	"entry": [24,14],
+	"exit" : "random",
+	"drones": 20,
+	"bouncebots" : 8,
+	"sprinter": 8,
+	"droneleader": 4
+}
